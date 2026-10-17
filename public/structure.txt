@@ -1,0 +1,20 @@
+Folder PATH listing
+Volume serial number is 1811-6C44
+E:.
+|   kyc.parquet
+|   README.md
+|   sample_submission.csv
+|   structure.txt
+|   test.csv
+|   train_labels.csv
+|   
++---dayend_balance
+|       balance_2024-01.parquet
+|       balance_2024-02.parquet
+|       balance_2024-03.parquet
+|       
+\---transactions
+        trx_2024-01.parquet
+        trx_2024-02.parquet
+        trx_2024-03.parquet
+        
